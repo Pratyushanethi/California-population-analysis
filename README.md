@@ -1,5 +1,5 @@
 # California-population-analysis
-analysis of Population Projection and Education data using MySQL 
+Analysis of Population Projection and Education data using MySQL 
 
 
 1. finding the percentage of education attainment for each category across differnent age group
